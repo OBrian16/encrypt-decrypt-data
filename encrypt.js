@@ -20,6 +20,6 @@ function decrypt(text) {
  return decrypted.toString();
 }
 
-var hw = encrypt("password")
+var hw = encrypt(Buffer.from("Some serious stuff", "utf-8"))
 console.log(hw)
 console.log(decrypt(hw))
