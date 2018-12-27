@@ -1,0 +1,23 @@
+{
+  "name": "encrypt-decrypt-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OBrian16/encrypt-decrypt-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OBrian16/encrypt-decrypt-data/issues"
+  },
+  "homepage": "https://github.com/OBrian16/encrypt-decrypt-data#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
